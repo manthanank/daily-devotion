@@ -56,23 +56,12 @@
 
 ---
 
-## 🌐 Recommended Domains for Vercel Deployment
+## 🌐 Live Production Deployment
 
-When deploying to **Vercel**, you can choose from either a free `.vercel.app` subdomain or connect a custom domain:
-
-### Free Vercel Subdomain Suggestions
-- `https://nityabhakti.vercel.app` *(Recommended)*
-- `https://dailydevotion.vercel.app`
-- `https://nitya-bhakti.vercel.app`
-- `https://dailybhakti.vercel.app`
-- `https://bhaktidaily.vercel.app`
-- `https://pandurangabhakti.vercel.app`
-
-### Custom Domain Suggestions
-- `nityabhakti.app` *(Clean, modern, sacred)*
-- `nityabhakti.in` *(Targeted for Indian devotees)*
-- `dailybhakti.com`
-- `bhaktidaily.app`
+The application is deployed and live on Vercel:
+- **Live URL**: [https://nityabhaktiapp.vercel.app](https://nityabhaktiapp.vercel.app)
+- **Alternative Mirror**: [https://daily-devotion-psi.vercel.app](https://daily-devotion-psi.vercel.app)
+- **GitHub Repository**: [https://github.com/manthanank/daily-devotion](https://github.com/manthanank/daily-devotion)
 
 ---
 
